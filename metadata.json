@@ -1,0 +1,6 @@
+{
+  "name": "Cafe AI",
+  "description": "A cozy café-themed virtual assistant app that integrates a powerful Gemini AI chatbot, custom messaging feeds, a versatile notepad, and a chalkboard-styled calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
